@@ -1,0 +1,21 @@
+.unselectMCQ {
+    background-color: lightgrey;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 10px;
+    width: 60%;
+    text-align: left;
+    border: none;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+.unselectMCQ:hover {
+    background-color: #4286f4;
+    color: white;
+}
+
+.ansActive {
+    background-color: blue;
+    color: white;
+}
